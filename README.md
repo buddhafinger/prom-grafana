@@ -3,9 +3,11 @@
 IMPORTANT NOTE: 
 This requires following /etc/host entries to work.
 
-127.0.0.1       prombox
-127.0.0.1       grafana
-127.0.0.1       exporter
+127.0.0.1       prombox  
+
+127.0.0.1       grafana  
+
+127.0.0.1       exporter  
 
 
 # Quickstart for Prometheus
